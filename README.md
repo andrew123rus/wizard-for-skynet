@@ -2,7 +2,7 @@
 
  Wizard для расчета стоимости подключения абонента.
  
- <img src="https://user-images.githubusercontent.com/105133093/215728141-62b919f4-39b5-4067-bba4-227cde662bcf.png" alt="image" width="600"/>
+ <img src="https://user-images.githubusercontent.com/105133093/219177983-835dccc8-a0c1-45d4-8cf2-cf98ce549664.png" alt="image" width="600"/>
 
 <b>Принцип работы</b>
 
